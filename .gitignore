@@ -1,0 +1,35 @@
+# === Archivos y carpetas generados por Python ===
+__pycache__/          # Carpeta con archivos compilados de Python
+*.py[cod]             # Archivos .pyc, .pyo, .pyd (código compilado)
+*.so                  # Bibliotecas compartidas generadas
+.Python               # Archivo de configuración de Python
+
+# === Entornos virtuales ===
+env/                  # Carpeta de entorno virtual (convención)
+venv/                 # Otra carpeta común para entornos virtuales
+.venv/                # A veces usada en algunos proyectos
+ENV/                  # Otra convención posible
+
+# === Distribución / empaquetado ===
+build/                # Carpeta de construcción
+dist/                 # Carpeta de distribución
+*.egg-info/           # Metadata de paquetes instalados
+.eggs/                # Archivos de paquetes eggs
+*.egg                 # Archivo egg
+
+# === Archivos de logs ===
+*.log                 # Archivos de log
+*.out                 # Archivos de salida
+*.err                 # Archivos de error
+
+# === Configuración de IDEs ===
+.vscode/              # Configuración de Visual Studio Code
+.idea/                # Configuración de PyCharm
+
+# === Archivos temporales de editores ===
+*.swp                 # Archivo swap temporal (Vim u otros)
+*.swo                 # Otro archivo swap temporal
+
+# === Archivos del sistema operativo ===
+.DS_Store             # Archivo oculto de macOS
+Thumbs.db             # Archivo oculto de Windows
